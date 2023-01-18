@@ -10,7 +10,7 @@
 - Course 4: Network Security & Database Vulnerabilities</b>
   - Completed! [See my badge here.](https://www.credly.com/badges/ed36b103-9585-4e12-a005-391d2f900a03/public_url)
 - Course 5: Penetration Testing, Incident Response and Forensics</b>
-  - In progress. I am currently on Week 1 out of 4.
+  - In progress. I am currently on Week 2 out of 4.
 - Course 6: Cyber Threat Intelligence</b>
   - Not started.
 - Course 7: Cybersecurity Capstone: Breach Response Case Studies</b>
