@@ -12,8 +12,8 @@
 - Course 5: Penetration Testing, Incident Response and Forensics</b>
   - Completed! [See my badge here.](https://www.credly.com/badges/ef7e1a96-8b36-4872-ba93-66b22ca47888/public_url)
 - Course 6: Cyber Threat Intelligence</b>
-  - In progress. I am currently on Week 3 out of 4.
+  - Completed! [See my badge here.](https://www.credly.com/badges/165cda39-6e41-4c55-a669-49e0cfc08b4d/public_url)
 - Course 7: Cybersecurity Capstone: Breach Response Case Studies</b>
-  - Not started.
+  - In progress.
 - Course 8: IBM Cybersecurity Analyst Assessment</b>
   - Not started.
