@@ -14,6 +14,6 @@
 - Course 6: Cyber Threat Intelligence</b>
   - Completed! [See my badge here.](https://www.credly.com/badges/165cda39-6e41-4c55-a669-49e0cfc08b4d/public_url)
 - Course 7: Cybersecurity Capstone: Breach Response Case Studies</b>
-  - In progress.
+  - Completed! [See my badge here.](https://www.credly.com/badges/b61dfb8c-5e20-4fdf-858e-c5929e79e104/public_url)
 - Course 8: IBM Cybersecurity Analyst Assessment</b>
-  - Not started.
+  - Completed! [See my badge here.](https://www.credly.com/badges/a201848a-c08d-4db1-aacf-624431c5d0f5/public_url)
